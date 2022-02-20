@@ -1,1 +1,1 @@
-# quadris_revised
+### Sample Bitcoin Implementation
