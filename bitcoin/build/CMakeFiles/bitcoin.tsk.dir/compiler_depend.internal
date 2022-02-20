@@ -225,4 +225,7 @@ CMakeFiles/bitcoin.tsk.dir/bitcoin.m.cpp.o
  /Library/Developer/CommandLineTools/usr/include/c++/v1/__bsd_locale_defaults.h
  /Library/Developer/CommandLineTools/usr/include/c++/v1/bitset
  /Library/Developer/CommandLineTools/usr/include/c++/v1/__bit_reference
+ /Users/jimyang/projects/bitcoin-implementation/bitcoin/blockchain.h
+ /Library/Developer/CommandLineTools/usr/include/c++/v1/vector
+ /Library/Developer/CommandLineTools/usr/include/c++/v1/__split_buffer
 

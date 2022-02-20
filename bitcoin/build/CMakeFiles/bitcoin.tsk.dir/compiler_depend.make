@@ -223,8 +223,13 @@ CMakeFiles/bitcoin.tsk.dir/bitcoin.m.cpp.o: ../bitcoin.m.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/usr/include/c++/v1/bitset \
-  /Library/Developer/CommandLineTools/usr/include/c++/v1/__bit_reference
+  /Library/Developer/CommandLineTools/usr/include/c++/v1/__bit_reference \
+  ../blockchain.h \
+  /Library/Developer/CommandLineTools/usr/include/c++/v1/vector \
+  /Library/Developer/CommandLineTools/usr/include/c++/v1/__split_buffer
 
+
+../blockchain.h:
 
 /Library/Developer/CommandLineTools/usr/include/c++/v1/__bit_reference:
 
@@ -636,6 +641,8 @@ CMakeFiles/bitcoin.tsk.dir/bitcoin.m.cpp.o: ../bitcoin.m.cpp \
 
 /Library/Developer/CommandLineTools/usr/include/c++/v1/ios:
 
+/Library/Developer/CommandLineTools/usr/include/c++/v1/__split_buffer:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/machine/endian.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/i386/_mcontext.h:
@@ -665,6 +672,8 @@ CMakeFiles/bitcoin.tsk.dir/bitcoin.m.cpp.o: ../bitcoin.m.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_wint_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_timespec.h:
+
+/Library/Developer/CommandLineTools/usr/include/c++/v1/vector:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/AvailabilityInternal.h:
 
